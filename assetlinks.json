@@ -6,20 +6,4 @@
     "sha256_cert_fingerprints":
     ["8D:B2:0F:F5:0D:46:F1:FA:32:94:92:55:DC:BE:CB:B8:9B:17:31:A0:7D:87:D8:96:B4:0E:94:50:8F:64:8A:6A"]
   }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "web",
-    "site": "https://josephwu37.github.io"
-  }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "tw.com.lollybank.sit",
-    "sha256_cert_fingerprints":
-    ["8D:B2:0F:F5:0D:46:F1:FA:32:94:92:55:DC:BE:CB:B8:9B:17:31:A0:7D:87:D8:96:B4:0E:94:50:8F:64:8A:6A"]
-  }
 }]
