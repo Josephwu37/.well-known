@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": ["ZHUB47XYD9.tw.com.lollybank.uat", "95E44WWFM7.com.softmobile.1MS20M"],
+        "paths": [ "/dynamicLink.html" ]
+      }
+    ]
+  }
+}
